@@ -85,7 +85,7 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
-                  Master of Arts
+                  Masters in Political Science
                   <br />
                   (Political Science)
                 </h3>
