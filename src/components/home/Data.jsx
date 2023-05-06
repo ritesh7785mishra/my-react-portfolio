@@ -60,8 +60,9 @@ const Data = () => {
       <p className="home__description">
         I am an experienced Front-End React Developer with a passion for
         creating intuitive, high-quality user experiences. I have a deep
-        understanding of React.js, Redux, ES6, HTML5, CSS3, JavaScript, and
-        other related technologies.
+        understanding of React.js, Redux, ES6, HTML5, CSS3, JavaScript, Material
+        UI , Tailwind CSS, Framer Motion and other related technologies. I have
+        experience of developing proper MERN stack apps too.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello

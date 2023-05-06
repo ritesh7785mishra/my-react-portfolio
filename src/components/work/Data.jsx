@@ -8,8 +8,16 @@ import Work7 from "../../assets/card-landing-page.png";
 import Work8 from "../../assets/meme-generator.jpg";
 import Work9 from "../../assets/user-management-app.png";
 import gpt3LandingPage from "../../assets/gpt3LandingPage.png";
+import foodAppImg from "../../assets/foodProjectImg.jpg";
 
 export const projectsData = [
+  {
+    id: -2,
+    image: foodAppImg,
+    title: "Food Ordering App",
+    category: "Fullstack App",
+    url: "https://zwigato-food-app.netlify.app",
+  },
   {
     id: -1,
     image: gpt3LandingPage,
