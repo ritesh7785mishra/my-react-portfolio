@@ -11,6 +11,7 @@ import Work from "./components/work/Work";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import ScrollUp from "./components/scrollUp/ScrollUp";
+import ProjectCarousal from "./components/projectCarousal/ProjectCarousal";
 
 const App = () => {
   return (
@@ -19,10 +20,12 @@ const App = () => {
       <main className="main">
         <Home />
         <About />
+        <ProjectCarousal />
         <Skills />
         <Work />
         {/* <Services /> */}
         {/* <Testimonials /> */}
+
         <Qualification />
         <Contact />
       </main>
